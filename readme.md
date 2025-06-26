@@ -1,1 +1,1 @@
-code for finding value for MST
+code for finding value  of MST
